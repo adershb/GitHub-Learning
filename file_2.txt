@@ -1,6 +1,10 @@
 #file2
+<<<<<<< HEAD
 #Header
 #header3
 #header784
 
 sdfadfdsssdfaaa
+=======
+#Header
+>>>>>>> 2d05fb1a473324e8ddd26e451929f2b45101d96f
